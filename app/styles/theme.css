@@ -3,9 +3,9 @@
   --oui-font-size-base: 16px;
 
   /* colors */
-  --oui-color-primary: 36 32 86;
+  --oui-color-primary: 26 24 63;
   --oui-color-primary-light: 96 101 169;
-  --oui-color-primary-darken: 35 41 123;
+  --oui-color-primary-darken: 22 25 59;
   --oui-color-primary-contrast: 255 255 255;
 
   --oui-color-link: 247 177 24;
@@ -33,7 +33,7 @@
   --oui-color-fill: 36 32 47;
   --oui-color-fill-active: 40 46 58;
 
-  --oui-color-base-1: 89 94 155;
+  --oui-color-base-1: 32 36 86;
   --oui-color-base-2: 41 45 102;
   --oui-color-base-3: 32 36 86;
   --oui-color-base-4: 32 36 86;
@@ -42,7 +42,7 @@
   --oui-color-base-7: 27 24 73;
   --oui-color-base-8: 32 36 80;
   --oui-color-base-9: 32 36 80;
-  --oui-color-base-10: 14 13 18;
+  --oui-color-base-10: 43 46 84;
 
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
