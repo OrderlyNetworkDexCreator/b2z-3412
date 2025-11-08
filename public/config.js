@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "B2Z DEX - Is a Perpetual Decentralized Exchange B2Z Exchang",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Swap,Vaults,Portfolio,Rewards,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard,Vaults",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/B2Z_Exchange",
